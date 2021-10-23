@@ -1,0 +1,33 @@
+.project {
+  padding: 20px;
+  background-color: rgb(232, 248, 245);
+}
+
+.project h3 {
+  padding: 15px;
+  text-decoration: underline;
+  color: rgb(129, 69, 141);
+}
+.project a {
+  text-decoration: none;
+  color: rgb(233, 24, 163);
+}
+.button {
+  padding: 2px;
+  background-color: rgb(214, 203, 100);
+  margin: 10px;
+  width: 100px;
+}
+
+.span {
+  text-align: center;
+}
+.span1 {
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: -20px;
+}
+
+.button a {
+  color: rgb(17, 16, 16);
+}

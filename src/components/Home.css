@@ -1,0 +1,46 @@
+.image {
+  height: 250px;
+  width: 250px;
+  margin-top: 20px;
+}
+.home {
+  background-color: rgb(232, 241, 232);
+  text-align: center;
+}
+.home a {
+  margin-bottom: 15px;
+  text-decoration: none;
+}
+.home button {
+  margin-bottom: 15px;
+}
+
+.footer {
+  background-color: rgb(34, 34, 33);
+  height: 65px;
+  padding: 15px;
+}
+.footer h6 {
+  color: aliceblue;
+}
+
+@media screen and (max-width: 700px) {
+  .image {
+    height: 200px;
+    width: 200px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .image {
+    height: 170px;
+    width: 170px;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .image {
+    height: 150px;
+    width: 150px;
+  }
+}

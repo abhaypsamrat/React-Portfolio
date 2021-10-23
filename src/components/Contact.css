@@ -1,0 +1,30 @@
+.contact {
+  text-align: center;
+  background-color: rgba(237, 243, 237, 0.87);
+  font-size: 30px;
+  padding: 20px;
+}
+.contact h3 {
+  text-decoration: underline;
+  color: rgb(129, 69, 141);
+}
+.contact-icon {
+  padding: 10px;
+}
+
+.github-social {
+  color: rgb(10, 9, 17);
+  padding: 8px;
+}
+.linkedin-social {
+  padding: 8px;
+  color: rgb(60, 139, 241);
+}
+.twitter-social {
+  padding: 8px;
+  color: rgb(76, 48, 253);
+}
+.gmail-social {
+  padding: 8px;
+  color: rgb(233, 39, 39);
+}
