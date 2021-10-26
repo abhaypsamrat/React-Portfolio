@@ -44,7 +44,7 @@ export default function Skill() {
           <DiJavascript1 className="js" />
           <div style={{ width: 50, height: 50 }}>
             <CircularProgressbar value={percentage3} text={`${percentage3}%`} />
-            <i>JAVASCIPT</i>
+            <i>JAVASCRIPT</i>
           </div>
         </div>
         <br />
