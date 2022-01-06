@@ -6,7 +6,7 @@ export default function About() {
       <h3 className="about-heading">About Me</h3>
       <p>
         My Name Is Abhay Pratap Samrat. I'm Computer Science Student Attending
-        Kashi Institute Of Technology. I Want To Become A Skilled Web Devloper.
+        Kashi Institute Of Technology. I Want To Become A Skilled Web Developer.
         I'm Interested In Populer Frontend Technologies, But My Major Focus Is
         On ReactJs. As Mentioned Above, I Like To Learn New Technologies. I'm
         Practiced Some Time Competitive Coding On{" "}
