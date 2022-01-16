@@ -1,7 +1,8 @@
 .about {
+  margin-top: -15px;
   text-align: center;
-  padding: 5% 25%;
-  background-color: rgb(230, 247, 230);
+  padding: 5% 22%;
+  background-color: rgb(245, 239, 239);
 }
 .about-heading {
   color: rgb(202, 135, 35);

@@ -1,8 +1,9 @@
 .contact {
   text-align: center;
-  background-color: rgba(237, 243, 237, 0.87);
+  background-color: rgb(245, 239, 239);
   font-size: 30px;
-  padding: 20px;
+  padding-top: 50px;
+  padding-bottom: 20px;
 }
 .contact h3 {
   text-decoration: underline;

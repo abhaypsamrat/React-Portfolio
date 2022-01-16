@@ -1,26 +1,20 @@
 import React from "react";
 import "./project.css";
 
-export default function Project() {
+function Project(props) {
   return (
-    <div className="project">
-      <h3>Project</h3>
-
-      <span className="span">Text Converter</span>
-      <br />
-      <button className="button">
-        <a href="https://abhaypsamrat.github.io/Text-Converter/" target="blank">
-          View Project
-        </a>
-      </button>
-      
-      <p className="span1">Varanasi Blog</p>
-      <br />
-      <button className="button">
-        <a href="http://varanasivlog.herokuapp.com/" target="blank">
-          View Project
-        </a>
-      </button>
+    <div>
+      <div className="card">
+        <div className="card_info">
+          <h4 className="card_title">{props.title}</h4>
+          <p className="card_description">{props.description}</p>
+          <a href={props.link} target="blank">
+            <button className="button">View Project</button>
+          </a>
+        </div>
+      </div>
     </div>
   );
 }
+
+export default Project;
