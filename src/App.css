@@ -3,7 +3,9 @@
   background-color: rgb(245, 239, 239);
 }
 .app-project h3 {
+  text-decoration: underline;
   padding: 40px;
+  color: rgb(129, 69, 141);
 }
 .app-p {
   margin: 25px;
