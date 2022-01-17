@@ -19,7 +19,7 @@ function App() {
         <div className="project-list">
           <Project
             title="Choose Movie"
-            description="This is simple react App by this app you can choose some best movie avilable on ott palteform"
+            description="This is simple react app by this you can choose some best movie avilable on ott platform"
             link="https://choosemovies.netlify.app/"
           />
           <Project
@@ -29,7 +29,7 @@ function App() {
           />
           <Project
             title="Text Converter"
-            description="A simple react aap convert sentences upper/lower case & count words on sentences"
+            description="A simple react aap convert sentences upper/lower case & count number of words on sentences"
             link="https://abhaypsamrat.github.io/Text-Converter/"
           />
         </div>

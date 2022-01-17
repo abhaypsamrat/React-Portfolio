@@ -15,7 +15,7 @@ export default function Home() {
           Hi, I'm Abhay
         </i>
       </h3>
-      <p className="home-p">A Beginner web Developer</p>
+      <p className="home-p">A Beginner Web Developer</p>
     </div>
   );
 }
