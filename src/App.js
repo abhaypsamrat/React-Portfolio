@@ -30,7 +30,7 @@ function App() {
           <Project
             title="Text Converter"
             description="A simple react aap convert sentences upper/lower case & count number of words on sentences"
-            link="https://abhaypsamrat.github.io/Text-Converter/"
+            link="https://word-converter.netlify.app/"
           />
         </div>
       </div>
