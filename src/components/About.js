@@ -11,10 +11,10 @@ export default function About() {
         Development And I Want To Become A Skilled Web Developer. As Mentioned,
         I Like To Learn New Technologies. I'm Interested In Populer Frontend
         Technologies, But My Major Focus Is On ReactJs. Currently I Am Working
-        On Web Development skills And Little Bit Competitive Programming. I'm
-        Practiced Some Time Competitive Coding On{" "}
+        On Web Development Skills And Little Bit Competitive Programming. Some
+        Time, I Practice Competitive Coding On{" "}
         <a href="https://www.hackerrank.com/abhaypsamrat" target="blank">
-          HackerRank
+          HackerRank.
         </a>
       </i>
       <br />
