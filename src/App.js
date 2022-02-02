@@ -18,19 +18,19 @@ function App() {
 
         <div className="project-list">
           <Project
-            title="Choose Movie"
-            description="This is simple react app by this you can choose some best movie avilable on ott platform"
-            link="https://choosemovies.netlify.app/"
-          />
-          <Project
-            title="ToDo"
-            description="A simple ToDo develop using Typescript and ReactJS"
-            link="https://fastest-todo.netlify.app/"
-          />
-          <Project
             title="Text Converter"
             description="A simple react aap convert sentences upper/lower case & count number of words on sentences"
             link="https://word-converter.netlify.app/"
+          />
+          <Project
+            title="ToDo"
+            description="A simple ToDo save your items, develop using ReactJS"
+            link="https://easy-t0d0.netlify.app/"
+          />
+          <Project
+            title="Choose Movie"
+            description="This is simple react app by this you can choose some best movie avilable on ott platform"
+            link="https://choosemovies.netlify.app/"
           />
         </div>
       </div>
