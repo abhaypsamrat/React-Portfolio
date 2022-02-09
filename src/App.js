@@ -25,7 +25,7 @@ function App() {
           <Project
             title="ToDo"
             description="A simple ToDo save your items, develop using ReactJS"
-            link="https://easy-t0d0.netlify.app/"
+            link="https://keep-item.netlify.app/"
           />
           <Project
             title="Choose Movie"
