@@ -5,10 +5,12 @@ import Skill from "./components/Skill";
 import Contact from "./components/Contact";
 import Project from "./components/Project";
 import "./App.css";
+import Header from "./components/Header";
 
 function App() {
   return (
     <div>
+      <Header />
       <Home />
       <About />
       <Skill />

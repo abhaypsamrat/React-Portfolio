@@ -6,7 +6,7 @@ export default function Home() {
     <div className="home">
       <img
         className="image"
-        src={require("./image/mypic.png").default}
+        src={require("./image/mypic.jpeg").default}
         alt=""
       />
       <h3>

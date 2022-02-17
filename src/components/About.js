@@ -5,25 +5,25 @@ export default function About() {
   return (
     <div className="about">
       <h3 className="about-heading">About Me</h3>
-      <i>
-        My Name Is Abhay Pratap Samrat. I'm 3rd Year Computer Science Student
-        Attending Kashi Institute Of Technology. I Love Working In Web
-        Development And I Want To Become A Skilled Web Developer. As Mentioned,
-        I Like To Learn New Technologies. I'm Interested In Populer Frontend
-        Technologies, But My Major Focus Is On ReactJs. Currently I Am Working
-        On Web Development Skills And Little Bit Competitive Programming. Some
-        Time, I Practice Competitive Coding On{" "}
-        <a href="https://www.hackerrank.com/abhaypsamrat" target="blank">
-          HackerRank.
-        </a>
-      </i>
+      <p>
+        My name is Abhay Pratap Samrat. I am 3rd year computer science student
+        attending Kashi Institute Of Technology, Varanasi. <br />
+        <br />
+        I love working in web development and i want to become a skilled web
+        developer. i like to learn new technologies.
+        <br /> I am interested in populer frontend technologies, but my major
+        focus is on ReactJs.
+        <br />
+        <br /> Currently, I am working on web development skills using HTML,
+        CSS, JavaScript, ReactJs, and NextJs.
+      </p>
       <br />
       <h3>Education</h3>
       <h6>Bachelor Of Technology In Computer Science & Engineering</h6>
-      <p>
+      <span>
         Kashi Institute Of Technology, Varanasi <br />
         (2019-23)
-      </p>
+      </span>
     </div>
   );
 }
