@@ -1,3 +1,4 @@
+
 .app-project {
   text-align: center;
   background-color: rgb(245, 239, 239);
@@ -21,4 +22,11 @@
 }
 .footer span {
   color: red;
+}
+
+
+@media screen and (max-width: 320px) {
+  .footer h6 {
+    font-size: 15px;
+  }
 }

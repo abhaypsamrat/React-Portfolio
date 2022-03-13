@@ -1,0 +1,98 @@
+.skill {
+  text-align: center;
+  padding: 5%;
+  padding-top: 50px;
+}
+.skill i {
+  font-size: small;
+}
+.skill h3 {
+  text-decoration: underline;
+  margin-bottom: 15px;
+  color: rgb(129, 69, 141);
+}
+.icon {
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.html {
+  color: rgb(241, 112, 72);
+  font-size: 60px;
+  margin: 20px;
+}
+
+.i-html {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  justify-content: space-evenly;
+}
+.css {
+  color: rgb(95, 64, 235);
+  font-size: 50px;
+  margin: 10px;
+}
+
+.i-css {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  justify-content: space-evenly;
+}
+.js {
+  color: rgb(244, 248, 8);
+  font-size: 60px;
+  margin: 10px;
+}
+.i-js {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  justify-content: space-evenly;
+}
+.python {
+  color: rgb(153, 196, 36);
+  font-size: 60px;
+  margin: 10px;
+}
+.i-python {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  justify-content: space-evenly;
+}
+.react {
+  color: rgba(65, 210, 230, 0.671);
+  color: darkturquoise;
+  font-size: 60px;
+  margin: 10px;
+}
+.i-react {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  justify-content: space-evenly;
+}
+.github {
+  color: rgb(31, 29, 28);
+  font-size: 60px;
+  margin: 10px;
+}
+.i-github {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  justify-content: space-evenly;
+}
+.git {
+  color: rgba(253, 61, 61, 0.767);
+  font-size: 60px;
+  margin: 10px;
+}
+.i-git {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  justify-content: space-evenly;
+}

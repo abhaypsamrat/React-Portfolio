@@ -1,0 +1,30 @@
+.about {
+  text-align: center;
+  padding: 5% 22%;
+
+}
+.about-heading {
+  color: rgb(202, 135, 35);
+  margin-bottom: 25px;
+  text-decoration: underline;
+}
+.about h3 {
+  text-decoration: underline;
+  margin-bottom: 25px;
+  margin-top: 15px;
+  color: rgb(129, 69, 141);
+}
+.about p{
+  text-align: justify;
+}
+.about a {
+  text-decoration: none;
+}
+@media (max-width: 720px) {
+  .about{
+    padding: 5% 15%;
+  }
+  .about h6, span{
+    text-align: justify;
+  }
+}

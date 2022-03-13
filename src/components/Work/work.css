@@ -1,0 +1,29 @@
+.work {
+  margin-top: -15px;
+  text-align: center;
+  padding: 5% 22%;
+}
+.work h3 {
+  text-decoration: underline;
+  margin-bottom: 25px;
+  color: rgb(129, 69, 141);
+}
+.work p {
+  text-align: justify;
+}
+.work button {
+  margin: 20px;
+  height: 30px;
+  font-size: 15px;
+  background-color: rgb(156, 75, 139);
+  color: white;
+  border-radius: 5px;
+}
+@media (max-width: 720px) {
+  .work {
+    padding: 5% 15%;
+  }
+  .work h3 {
+    margin-top: 45px;
+  }
+}

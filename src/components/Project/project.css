@@ -1,0 +1,75 @@
+.project {
+  padding: 24px;
+}
+.project h3 {
+  text-decoration: underline;
+  text-align: center;
+  color: rgb(129, 69, 141);
+}
+.plist {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.project-list {
+  margin-top: 20px;
+  padding: 10px;
+  background-color: rgb(196, 240, 191);
+  border-radius: 15px;
+  width: 40%;
+}
+.project-list h5 {
+  text-align: center;
+  text-decoration: underline;
+  padding-top: 10px;
+}
+.project-list p {
+  padding: 10px;
+  margin: 10px;
+  text-align: justify;
+}
+.plist b{
+  text-align: center;
+  padding-left: 20px;
+  padding-bottom: 30px;
+}
+.project-list:hover {
+  transform: scale(1.01);
+  box-shadow: 0 13px 40px -5px hsla(240, 30.1%, 28%, 0.12),
+    0 8px 32px -8px hsla(0, 0%, 0%, 0.14),
+    0 -6px 32px -6px hsla(0, 0%, 0%, 0.02);
+}
+.project-list button {
+  margin: 20px;
+  margin-top: 40px;
+  height: 30px;
+  font-size: 15px;
+  background-color: rgb(156, 75, 139);
+  color: white;
+  border-radius: 5px;
+}
+
+.project-list button:hover {
+  transform: scale(1.01);
+  box-shadow: 0 13px 40px -5px hsla(240, 30.1%, 28%, 0.12),
+    0 8px 32px -8px hsla(0, 0%, 0%, 0.14),
+    0 -6px 32px -6px hsla(0, 0%, 0%, 0.02);
+}
+.backhome button {
+  margin: 20px;
+  height: 30px;
+  font-size: 15px;
+  background-color: rgb(156, 75, 139);
+  color: white;
+  border-radius: 5px;
+}
+@media (max-width: 720px) {
+  .project-list {
+    margin-top: 20px;
+    width: 93%;
+  }
+  .project-list button {
+    margin: 15px;
+    font-size: 14px;
+  }
+}

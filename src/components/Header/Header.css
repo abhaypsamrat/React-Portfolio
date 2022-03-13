@@ -1,0 +1,20 @@
+.header {
+  text-align: center;
+  background-color: black;
+  color: rgb(81, 199, 81);
+  height: 55px;
+  padding: 15px;
+
+  /* Hold the header in top of the screen */
+
+  position: -webkit-sticky;
+  position: sticky;
+  top: -1px;
+  z-index: 10;
+}
+
+@media screen and (max-width: 320px) {
+  .header h5 {
+    font-size: 15px;
+  }
+}
