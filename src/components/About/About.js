@@ -11,7 +11,7 @@ export default function About() {
         <br />
         I love working in web development and i want to become a skilled web
         developer. i like to learn new technologies.
-        <br /> I am interested in populer frontend technologies, but my major
+        <br /> I am interested in popular frontend technologies, but my major
         focus is on ReactJs.
        
       </p>
